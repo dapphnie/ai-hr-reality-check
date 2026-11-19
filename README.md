@@ -1,5 +1,7 @@
 # AI in HR: The Reality Check
 
+**Live site: https://ai-hr-reality-check.vercel.app**
+
 **An evidence-based dashboard comparing what is claimed about AI in recruitment with how adoption is measured and how recruitment technology is actually encountered by employers.**
 
 Built by Defne Ugur (MSc Human Resource Management, University of Sussex) as a portfolio project connecting HR research, technology-adoption analysis, interactive data visualisation and responsible AI governance. Its intellectual foundation is the author's dissertation, *Beyond Adoption: How Small Hospitality Owner-Managers and Managers Encounter Algorithmic Recruitment in Brighton* (2026).

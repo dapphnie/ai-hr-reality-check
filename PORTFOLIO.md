@@ -1,6 +1,6 @@
 # Portfolio copy
 
-Replace `<live link>` and `<GitHub link>` once deployed.
+Live site: https://ai-hr-reality-check.vercel.app · Code: https://github.com/dapphnie/ai-hr-reality-check
 
 ## One-line tagline
 
@@ -8,7 +8,7 @@ An evidence-based dashboard testing claims about AI in recruitment against adopt
 
 ## CV entry (Projects section)
 
-**AI in HR: The Reality Check** — Interactive research dashboard (React, TypeScript, Recharts) · `<live link>`
+**AI in HR: The Reality Check** — Interactive research dashboard (React, TypeScript, Recharts) · https://ai-hr-reality-check.vercel.app
 
 - Designed and built a web application that compares industry claims about AI in recruitment with UK and EU adoption statistics (CIPD, ONS, DSIT, Eurostat, OECD) and peer-reviewed research, using a traceable dataset of 74 verified sources.
 - Assessed nine common claims (e.g. "AI eliminates recruitment bias") with transparent evidence labels and reasoning, and kept incompatible survey measures apart with built-in comparability warnings.
@@ -25,7 +25,7 @@ It compares three things that are rarely put side by side: what vendors and indu
 
 Inside: a claims-vs-evidence explorer with transparent assessments, adoption dashboards that refuse to pool incompatible statistics, a UK/EU governance and risk explorer with a procurement checklist, and a searchable library of 74 verified sources.
 
-Built with React, TypeScript, Tailwind and Recharts. `<live link>`
+Built with React, TypeScript, Tailwind and Recharts. https://ai-hr-reality-check.vercel.app
 
 ## LinkedIn post (optional, shorter)
 
@@ -33,6 +33,6 @@ Built with React, TypeScript, Tailwind and Recharts. `<live link>`
 
 I built **AI in HR: The Reality Check** to show what headline numbers like this include and what they leave out. It brings together adoption data, independent research on bias, efficiency and candidate quality, UK and EU regulation, and my MSc research on how small employers actually encounter hiring algorithms.
 
-Explore it here: `<live link>`
+Explore it here: https://ai-hr-reality-check.vercel.app
 
 #HRTech #PeopleAnalytics #ResponsibleAI #AIGovernance #Recruitment
