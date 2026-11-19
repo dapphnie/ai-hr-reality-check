@@ -25,3 +25,5 @@ dist-ssr
 
 # Local editor/agent config
 .claude/
+.vercel
+.env*
